@@ -30,10 +30,6 @@ CSS : **Cascading Style Sheet** est un langage qui ajoute du style pour vos page
 * [Un exemple complet des différents balises dans le body](exemples/exemple_le_body.html)
 
 
-
-
-
-
 #### Le référencement naturel (SEO)
 
 Le référencement est une des clés importantes pour que votre site web soit visité constamment. Il suffit de quelques lignes de codes afin que votre page soit indexé sur Google, DuckDuckGo, Qwant et pleins d'autres moteurs de recherche.
