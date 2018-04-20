@@ -10,12 +10,12 @@ CSS : **Cascading Style Sheet** est un langage qui ajoute du style pour vos page
 
 #### Les outils pour développer chez soi
 
-###### Il vous faut un éditeur de texte.
+###### Il vous faut un éditeur de texte.
 [Atom](https://atom.io), [Visual Studio Code](https://code.visualstudio.com) ou encore [Sublime Text](https://www.sublimetext.com) sont gratuits.
 ###### Un navigateur web
 [Mozilla Firefox](https://www.mozilla.org/fr/firefox/new/), [Google Chrome](https://www.google.fr/chrome/index.html), [Opéra](https://www.opera.com/fr) etc.
 
-#### Quelques bases du HTML
+#### Quelques bases du HTML
 
 * [Un exemple d'un fichier HTML](exemples/exemple_fichier_html_basique.html)
   * Avec la balise `<html>` pour encadrer tout le code HTML
